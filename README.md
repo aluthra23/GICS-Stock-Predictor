@@ -8,7 +8,7 @@ The project aims to implement an LSTM model to predict stock prices using histor
 
 ## Data
 
-The dataset used in this project contains historical stock prices for a specific stock ticker ('XLB') from November 30, 2018, to November 30, 2022.
+The datasets used in this project contains historical stock prices for all GICS Sectors from November 30, 2018, to November 30, 2022.
 
 ## Model Architecture
 
