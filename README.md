@@ -1,4 +1,4 @@
-# Stock Market Prediction with LSTM
+# GICS Sectors Prediction Project
 
 This project explores the use of Long Short-Term Memory (LSTM) networks for stock market prediction. The notebook contains Python code for training an LSTM model to predict stock prices based on historical data.
 
